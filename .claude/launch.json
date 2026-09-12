@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "mercago-web",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "C:\\Users\\Renzo\\Desktop\\APP-ECOMERCE\\mercago-web", "run", "dev", "--", "-p", "3010"],
+      "port": 3010
+    },
+    {
+      "name": "mercago-admin",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "C:\\Users\\Renzo\\Desktop\\APP-ECOMERCE\\mercago-admin", "run", "dev", "--", "-p", "3011"],
+      "port": 3011
+    }
+  ]
+}
