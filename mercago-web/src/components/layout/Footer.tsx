@@ -8,8 +8,7 @@ export function Footer() {
           <div>
             <p className="font-display text-lg font-semibold">MercaGo</p>
             <p className="mt-2 max-w-xs text-sm text-muted-foreground">
-              Publica lo que ya no usas, encuentra lo que necesitas y negocia directo con la otra persona — sin
-              intermediarios.
+              Publica tu producto o servicio y llega directo a quien lo está buscando — sin intermediarios.
             </p>
           </div>
           <div>
